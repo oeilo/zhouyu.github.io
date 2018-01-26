@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[zhouyu's life]]></title>
+  <link href="life.oeilo.com/atom.xml" rel="self"/>
+  <link href="life.oeilo.com/"/>
+  <updated>2018-01-26T16:50:53+08:00</updated>
+  <id>life.oeilo.com/</id>
+  <author>
+    <name><![CDATA[]]></name>
+    
+  </author>
+  <generator uri="http://www.mweb.im/">MWeb</generator>
+  
+  <entry>
+    <title type="html"><![CDATA[nice man]]></title>
+    <link href="life.oeilo.com/15168801927667.html"/>
+    <updated>2018-01-25T19:36:32+08:00</updated>
+    <id>life.oeilo.com/15168801927667.html</id>
+    <content type="html"><![CDATA[
+<h2 id="toc_0">i love you&lt;!-- more --&gt;</h2>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[测试七牛]]></title>
+    <link href="life.oeilo.com/15168796530087.html"/>
+    <updated>2018-01-25T19:27:33+08:00</updated>
+    <id>life.oeilo.com/15168796530087.html</id>
+    <content type="html"><![CDATA[
+<p>请给力点</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[ceshi]]></title>
+    <link href="life.oeilo.com/15168761504745.html"/>
+    <updated>2018-01-25T18:29:10+08:00</updated>
+    <id>life.oeilo.com/15168761504745.html</id>
+    <content type="html"><![CDATA[
+<p>测试七牛云</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[5456448]]></title>
+    <link href="life.oeilo.com/15167916704032.html"/>
+    <updated>2018-01-24T19:01:10+08:00</updated>
+    <id>life.oeilo.com/15167916704032.html</id>
+    <content type="html"><![CDATA[
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[第一篇文]]></title>
+    <link href="life.oeilo.com/15167910991792.html"/>
+    <updated>2018-01-24T18:51:39+08:00</updated>
+    <id>life.oeilo.com/15167910991792.html</id>
+    <content type="html"><![CDATA[
+<p>经历一系列事情后，灰色产业所需过硬的技术以及一定的执行力，周期不长，宜挣快钱<br/>
+巴登巴登吧</p>
+
+]]></content>
+  </entry>
+  
+</feed>
