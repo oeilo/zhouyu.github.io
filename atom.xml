@@ -4,7 +4,7 @@
   <title><![CDATA[zhouyu's life]]></title>
   <link href="life.oeilo.com/atom.xml" rel="self"/>
   <link href="life.oeilo.com/"/>
-  <updated>2018-01-26T18:20:39+08:00</updated>
+  <updated>2018-01-26T18:24:47+08:00</updated>
   <id>life.oeilo.com/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -31,13 +31,10 @@
     <content type="html"><![CDATA[
 <ol>
 <li>清理原生文件夹，然后通过命令 get 到git的文件夹</li>
-<li><code>git clone &#39;https://github.com/oeilo/zhouyu.github.io&#39; &#39;MyLife&#39;</code></li>
+<li><p><code>git clone &#39;https://github.com/oeilo/zhouyu.github.io&#39; &#39;MyLife&#39;</code></p>
+
+<p><u>如果不小心&quot;清理并重新生成网站&quot;就必须重复上面1 and 2 步骤</u></p></li>
 </ol>
-
-<hr/>
-
-<p><strong>注意点</strong><br/>
-如果不小心&quot;清理并重新生成网站&quot;就必须重复上面1 and 2 步骤</p>
 
 ]]></content>
   </entry>
