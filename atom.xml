@@ -4,7 +4,7 @@
   <title><![CDATA[zhouyu's life]]></title>
   <link href="life.oeilo.com/atom.xml" rel="self"/>
   <link href="life.oeilo.com/"/>
-  <updated>2018-01-26T19:34:45+08:00</updated>
+  <updated>2018-01-26T19:36:18+08:00</updated>
   <id>life.oeilo.com/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -25,8 +25,9 @@
 答：<br/>
 2.“一家人”，任何事都不比家人更重要，影片里太太爷爷因想通了想回家了而遭人暗算死在外乡，导致太太奶恨他，差点让后人都不记得了。<br/>
 问：你要怎么让一家人幸福开心？<br/>
-答：<br/>
-&lt;!-- more --&gt;</p>
+答：</p>
+
+<span id="more"></span><!-- more -->
 
 <h3 id="toc_1">影片解读</h3>
 
@@ -53,11 +54,15 @@
 <p>思想程度决定了你这个人能否被人操控<br/>
 说话做事反思很重要<br/>
 思想一旦被禁锢，你将听不见别人的思想<br/>
-事情做了才知道，不做永远不知道下一步，耐得住寂寞，懂得了圆润<br/>
-&lt;!-- more --&gt;<br/>
-1. 我是缺乏耐心的人，一旦一件事没做完，做任何事都会不开心，压力很大又没能力完成然后毅力崩溃，导致一件事情做不成，就会放弃。<br/>
-2. 思想上要做断舍离，你的决定都将是你以后你想要成为的人，不是一朝一夕，我们都想成为完美的人，不过哪些人会是这么完美呢？大家都是普通人，都是群居性思想动物，利益是根本然后是为人处事，最后大家才能在一起。</p>
+事情做了才知道，不做永远不知道下一步，耐得住寂寞，懂得了圆润</p>
 </blockquote>
+
+<span id="more"></span><!-- more -->
+
+<ol>
+<li>我是缺乏耐心的人，一旦一件事没做完，做任何事都会不开心，压力很大又没能力完成然后毅力崩溃，导致一件事情做不成，就会放弃。</li>
+<li>思想上要做断舍离，你的决定都将是你以后你想要成为的人，不是一朝一夕，我们都想成为完美的人，不过哪些人会是这么完美呢？大家都是普通人，都是群居性思想动物，利益是根本然后是为人处事，最后大家才能在一起。</li>
+</ol>
 
 <h3 id="toc_0">何为缘分？</h3>
 
@@ -96,10 +101,13 @@
     <content type="html"><![CDATA[
 <ol>
 <li>清理原生文件夹，然后通过命令 get 到git的文件夹</li>
-<li><p><code>git clone &#39;https://github.com/oeilo/zhouyu.github.io&#39; &#39;MyLife&#39;</code></p>
-
-<p><u>如果不小心&quot;清理并重新生成网站&quot;就必须重复上面1 and 2 步骤</u></p></li>
+<li><code>git clone &#39;https://github.com/oeilo/zhouyu.github.io&#39; &#39;MyLife&#39;</code></li>
 </ol>
+
+<span id="more"></span><!-- more -->
+
+<pre><code>_如果不小心&quot;清理并重新生成网站&quot;就必须重复上面1 and 2 步骤_
+</code></pre>
 
 ]]></content>
   </entry>
